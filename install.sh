@@ -17,3 +17,4 @@ sudo systemctl enable docker.service
 
 # test users menu
 # newgrp docker
+# yakaaa
